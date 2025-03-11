@@ -1,10 +1,8 @@
-// This file will contain your large JSON data
-// Replace the content between the brackets with your actual JSON data
 export const productData = [{
   "_id": {
     "$oid": "67b09d261b72e581333973bc"
   },
-  "name": "Weightloss hindi (white)",
+  "name": "Pin Button 58mm hindi (Weightloss white) ",
   "description": "Weightloss pin",
   "price": 0,
   "image": [
@@ -16,13 +14,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739627814848,
   "productID": "TD-001",
-  "__v": 0
+  "__v": 0,
+  "language": "Hindi"
 },
 {
   "_id": {
     "$oid": "67b09d411b72e581333973be"
   },
-  "name": "Weightloss hindi (green)",
+  "name": "Pin Button 58mm hindi (Weightloss green)",
   "description": "weightloss pin (green)",
   "price": 0,
   "image": [
@@ -34,13 +33,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739627841722,
   "productID": "TD-002",
-  "__v": 0
+  "__v": 0,
+  "language": "Hindi"
 },
 {
   "_id": {
     "$oid": "67b09d641b72e581333973c0"
   },
-  "name": "Weightloss white",
+  "name": "Pin Button 58mm (Weightloss white)",
   "description": "weightloss pin",
   "price": 0,
   "image": [
@@ -52,13 +52,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739627876757,
   "productID": "TD-003",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b09d7c1b72e581333973c2"
   },
-  "name": "Boss Lady",
+  "name": "Pin Button (Boss Lady)",
   "description": "boss lady pin white",
   "price": 0,
   "image": [
@@ -70,13 +71,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739627900243,
   "productID": "TD-005",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b09e161b72e581333973c5"
   },
-  "name": "Pin",
+  "name": "Pin Button 58mm (Health)",
   "description": "health pin",
   "price": 0,
   "image": [
@@ -88,13 +90,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739628054050,
   "productID": "TD-006",
-  "__v": 0
+  "__v": 0,
+  "language": "Hindi"
 },
 {
   "_id": {
     "$oid": "67b09e331b72e581333973c7"
   },
-  "name": "Join the Team",
+  "name": "Pin Button 58mm(Join the Team)",
   "description": "join the team pin",
   "price": 0,
   "image": [
@@ -106,13 +109,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739628083377,
   "productID": "TD-008",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b09e4a1b72e581333973c9"
   },
-  "name": "Pin",
+  "name": "Pin Button 58mm Punjabi",
   "description": "Pin",
   "price": 0,
   "image": [
@@ -124,13 +128,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739628106384,
   "productID": "TD-009",
-  "__v": 0
+  "__v": 0,
+  "language": "Punjabi"
 },
 {
   "_id": {
     "$oid": "67b09e911b72e581333973cb"
   },
-  "name": "Fat to Fit",
+  "name": "Pin Button 58mm (Fat to Fit)",
   "description": "fat to fit pin (white)",
   "price": 0,
   "image": [
@@ -142,13 +147,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739628177851,
   "productID": "TD-012",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b09f761b72e581333973cd"
   },
-  "name": "Herblife Nutrition ",
+  "name": "Pin Button 58mm (Herblife Nutrition) ",
   "description": "Herblife nutriton",
   "price": 0,
   "image": [
@@ -160,13 +166,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739628406981,
   "productID": "TD-013",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b09fa11b72e581333973cf"
   },
-  "name": "Earn Extra Income ",
+  "name": "Pin Button 58mm (Earn Extra Income)",
   "description": "earn extra income pin",
   "price": 0,
   "image": [
@@ -178,13 +185,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739628449516,
   "productID": "TD-014",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b09fcc1b72e581333973d1"
   },
-  "name": "I love Hearbalife nutrition",
+  "name": "Pin Button 58mm (I love Hearbalife nutrition)",
   "description": "i love herbalife nutrition pin",
   "price": 0,
   "image": [
@@ -196,13 +204,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739628492993,
   "productID": "TD-015",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0a0231b72e581333973d3"
   },
-  "name": "Lose Weight Now",
+  "name": "Pin Button 58mm (Lose Weight Now)",
   "description": "lose weight now pin",
   "price": 0,
   "image": [
@@ -214,13 +223,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739628579360,
   "productID": "TD-017",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0a0821b72e581333973d5"
   },
-  "name": "Herbalife queen",
+  "name": "Pin Button 58mm (Herbalife queen)",
   "description": "herbalife queen pin",
   "price": 0,
   "image": [
@@ -232,13 +242,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739628674796,
   "productID": "TD-018",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0a0b21b72e581333973d7"
   },
-  "name": "Ask about my 3 day trial pack",
+  "name": "Pin Button 58mm (Ask about my 3 day trial pack)",
   "description": "ask about my 3 day trial pack",
   "price": 0,
   "image": [
@@ -250,13 +261,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739628722721,
   "productID": "TD-019",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0a0d91b72e581333973d9"
   },
-  "name": "Misson ideal weight",
+  "name": "Pin Button 58mm (Misson ideal weight)",
   "description": "mission ideal weight pin",
   "price": 0,
   "image": [
@@ -268,13 +280,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739628761734,
   "productID": "TD-020",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0a0ff1b72e581333973db"
   },
-  "name": "Take Care of your body(Herbalife)",
+  "name": "Pin Button 58mm (Take Care of your body)",
   "description": "Take Care of your body pin",
   "price": 0,
   "image": [
@@ -285,14 +298,15 @@ export const productData = [{
   "sizes": [],
   "bestseller": false,
   "date": 1739628799518,
-  "productID": "TD-020",
-  "__v": 0
+  "productID": "TD-021",
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0a1dc1b72e581333973dd"
   },
-  "name": "21 Days fitness challenge",
+  "name": "Pin Button 58mm (21 Days fitness challenge)",
   "description": "21 Days fitness challenge pin",
   "price": 0,
   "image": [
@@ -304,13 +318,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739629020087,
   "productID": "TD-022",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0a21e1b72e581333973df"
   },
-  "name": "Personal Welness Coach",
+  "name": "Pin Button 58mm (Personal Welness Coach)",
   "description": "wellness coach pin",
   "price": 0,
   "image": [
@@ -322,13 +337,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739629086947,
   "productID": "TD-024",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0a27f1b72e581333973e1"
   },
-  "name": "Welness Coach",
+  "name": "Pin Button 58mm (Welness Coach)",
   "description": "Welness coach pin",
   "price": 0,
   "image": [
@@ -340,13 +356,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739629183292,
   "productID": "TD-027",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0a2c71b72e581333973e3"
   },
-  "name": "Nutrition, workout pin",
+  "name": "Pin Button 58mm (Nutrition, workout pin)",
   "description": "nutrition and workiut pin",
   "price": 0,
   "image": [
@@ -358,13 +375,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739629255141,
   "productID": "TD-028",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0a3111b72e581333973e5"
   },
-  "name": "Work from Home ",
+  "name": "Pin Button 58mm (Work from Home) ",
   "description": "Work from Home pin",
   "price": 0,
   "image": [
@@ -376,13 +394,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739629329852,
   "productID": "TD-029",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0a33c1b72e581333973e7"
   },
-  "name": "Work From Home (hindi)",
+  "name": "Pin Button 58mm hindi (Work From Home)",
   "description": "work from home hindi pin",
   "price": 0,
   "image": [
@@ -394,13 +413,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739629372596,
   "productID": "TD-031",
-  "__v": 0
+  "__v": 0,
+  "language": "Hindi"
 },
 {
   "_id": {
     "$oid": "67b0a37d1b72e581333973e9"
   },
-  "name": "Food pin (hindi)",
+  "name": "Pin Button 58mm (Food pin)",
   "description": "food pin hindi",
   "price": 0,
   "image": [
@@ -412,13 +432,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739629437462,
   "productID": "TD-033",
-  "__v": 0
+  "__v": 0,
+  "language": "Hindi"
 },
 {
   "_id": {
     "$oid": "67b0a3991b72e581333973eb"
   },
-  "name": "Pin",
+  "name": "Pin Button 58mm",
   "description": "Pin",
   "price": 0,
   "image": [
@@ -430,13 +451,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739629465217,
   "productID": "TD-036",
-  "__v": 0
+  "__v": 0,
+  "language": "Punjabi"
 },
 {
   "_id": {
     "$oid": "67b0a3bb1b72e581333973ed"
   },
-  "name": "Pin",
+  "name": "Pin Button 58mm",
   "description": "Pin",
   "price": 0,
   "image": [
@@ -448,13 +470,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739629499968,
   "productID": "TD-037",
-  "__v": 0
+  "__v": 0,
+  "language": "Punjabi"
 },
 {
   "_id": {
     "$oid": "67b0a3f41b72e581333973ef"
   },
-  "name": "Personal Wellness Coach",
+  "name": "Pin Button 58mm (Personal Wellness Coach)",
   "description": "Personal Wellness Coach pin",
   "price": 0,
   "image": [
@@ -466,13 +489,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739629556250,
   "productID": "TD-038",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0a6dc1b72e581333973f9"
   },
-  "name": "Fit Mom",
+  "name": "Pin Button 58mm (Fit Mom)",
   "description": "FIT MOM PIN",
   "price": 0,
   "image": [
@@ -484,13 +508,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739630300496,
   "productID": "TD-041",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0a7001b72e581333973fb"
   },
-  "name": "Live your Best Life",
+  "name": "Pin Button 58mm (Live your Best Life)",
   "description": "live your best life pin",
   "price": 0,
   "image": [
@@ -502,13 +527,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739630336624,
   "productID": "TD-043",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0a86a1b72e581333973fd"
   },
-  "name": "I've lost over custom pin",
+  "name": "Pin Button 58mm (I've lost over custom pin)",
   "description": "pin",
   "price": 0,
   "image": [
@@ -520,13 +546,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739630698704,
   "productID": "TD-044",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0a9be1b72e58133397404"
   },
-  "name": "Let's Go Herbalife",
+  "name": "Pin Button 58mm (Let's Go Herbalife)",
   "description": "PIN",
   "price": 0,
   "image": [
@@ -538,13 +565,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739631038195,
   "productID": "TD-045",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0aa1b1b72e58133397406"
   },
-  "name": "Lose weight now",
+  "name": "Pin Button 58mm (Lose weight now)",
   "description": "badge",
   "price": 0,
   "image": [
@@ -556,13 +584,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739631131556,
   "productID": "TD-046",
-  "__v": 0
+  "__v": 0,
+  "language": "Gujrati"
 },
 {
   "_id": {
     "$oid": "67b0aa3c1b72e58133397408"
   },
-  "name": "Lose Weight Now",
+  "name": "Pin Button 58mm (Lose Weight Now)",
   "description": "badge",
   "price": 0,
   "image": [
@@ -574,13 +603,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739631164760,
   "productID": "TD-047",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0ac041b72e5813339740f"
   },
-  "name": "pin",
+  "name": "Pin Button 58mm",
   "description": "PIN",
   "price": 0,
   "image": [
@@ -592,13 +622,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739631620144,
   "productID": "TD-049",
-  "__v": 0
+  "__v": 0,
+  "language": "Gujrati"
 },
 {
   "_id": {
     "$oid": "67b0ac361b72e58133397411"
   },
-  "name": "pin ",
+  "name": "Pin Button 58mm",
   "description": "pin",
   "price": 0,
   "image": [
@@ -610,13 +641,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739631670411,
   "productID": "TD-052",
-  "__v": 0
+  "__v": 0,
+  "lanugage": "Hindi"
 },
 {
   "_id": {
     "$oid": "67b0ac671b72e58133397414"
   },
-  "name": "pin",
+  "name": "Pin Button 58mm",
   "description": "PIN",
   "price": 0,
   "image": [
@@ -628,13 +660,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739631719767,
   "productID": "TD-051",
-  "__v": 0
+  "__v": 0,
+  "language": "Gujrati"
 },
 {
   "_id": {
     "$oid": "67b0acb11b72e58133397416"
   },
-  "name": "I Love herbalife nutrition",
+  "name": "Pin Button 58mm (I Love herbalife nutrition)",
   "description": "pin",
   "price": 0,
   "image": [
@@ -646,13 +679,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739631793406,
   "productID": "TD-060",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0acee1b72e58133397418"
   },
-  "name": "Lose weight Now (punjabi)",
+  "name": "Pin Button 58mm (Lose weight Now)",
   "description": "Lose weight Now pin",
   "price": 0,
   "image": [
@@ -664,13 +698,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739631854199,
   "productID": "TD-061",
-  "__v": 0
+  "__v": 0,
+  "language": "Punjabi"
 },
 {
   "_id": {
     "$oid": "67b0adfa1b72e5813339741a"
   },
-  "name": "Lose Weight Now (English)",
+  "name": "Pin Button (Lose Weight Now)",
   "description": "pin ",
   "price": 0,
   "image": [
@@ -682,13 +717,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739632122014,
   "productID": "TD-062",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0ae381b72e5813339741c"
   },
-  "name": "Lose weight now (hindi)",
+  "name": "Pin Button 58mm hindi(Lose weight now)",
   "description": "wightloss pin (hindi)",
   "price": 0,
   "image": [
@@ -700,13 +736,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739632184382,
   "productID": "TD-063",
-  "__v": 0
+  "__v": 0,
+  "language": "Hindi"
 },
 {
   "_id": {
     "$oid": "67b0ae651b72e5813339741e"
   },
-  "name": "Work from Home (black)",
+  "name": "Pin Button 58mm (Work from Home black)",
   "description": "work from home pin",
   "price": 0,
   "image": [
@@ -718,13 +755,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739632229847,
   "productID": "TD-064",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0ae8d1b72e58133397420"
   },
-  "name": "Work From home white (hindi)",
+  "name": "Pin Button 58mm (Work From home white hindi)",
   "description": "work from home pin",
   "price": 0,
   "image": [
@@ -736,13 +774,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739632269557,
   "productID": "TD-088",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0aff91b72e58133397424"
   },
-  "name": "Work from home",
+  "name": "Pin Button 58mm (Work from home)",
   "description": "Badges",
   "price": 0,
   "image": [
@@ -754,7 +793,8 @@ export const productData = [{
   "bestseller": false,
   "date": 1739632633639,
   "productID": "TD-089",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
@@ -796,7 +836,7 @@ export const productData = [{
   "_id": {
     "$oid": "67b0b1bd1b72e5813339742a"
   },
-  "name": "Lose Weight Now",
+  "name": "Magnet Button 44mm (Lose Weight Now)",
   "description": "magnetic button",
   "price": 0,
   "image": [
@@ -808,13 +848,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739633085046,
   "productID": "TD-096",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0b1f41b72e5813339742c"
   },
-  "name": "Lose Weightloss Now (black)",
+  "name": "Magnet Button 44mm (Lose Weightloss Now)",
   "description": "magnetic button",
   "price": 0,
   "image": [
@@ -826,13 +867,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739633140063,
   "productID": "TD-097",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0b30f1b72e5813339742e"
   },
-  "name": "I love herbalife ",
+  "name": "Magnet Button 44mm (I love herbalife)",
   "description": "magnetic button",
   "price": 0,
   "image": [
@@ -844,13 +886,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739633423414,
   "productID": "TD-099",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0b3501b72e58133397430"
   },
-  "name": "I love herbalife (white)",
+  "name": "Magnet Button (I love herbalife)",
   "description": "magnetic button",
   "price": 0,
   "image": [
@@ -862,13 +905,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739633488431,
   "productID": "TD-100",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0b3671b72e58133397432"
   },
-  "name": "Wellness Coach",
+  "name": "Magnet Button (Wellness Coach)",
   "description": "Magnetic button",
   "price": 0,
   "image": [
@@ -880,13 +924,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739633511573,
   "productID": "TD-102",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0b53b1b72e58133397434"
   },
-  "name": "Weightloss (punjabi)",
+  "name": "Magnet Button (Weightloss)",
   "description": "weightloss magnetic button",
   "price": 0,
   "image": [
@@ -898,13 +943,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739633979134,
   "productID": "TD-103",
-  "__v": 0
+  "__v": 0,
+  "language": "Punjabi"
 },
 {
   "_id": {
     "$oid": "67b0b6381b72e58133397436"
   },
-  "name": "Weightloss (black)",
+  "name": "Magnet Button (Weightloss)",
   "description": "weightloss magnet button",
   "price": 0,
   "image": [
@@ -916,13 +962,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739634232766,
   "productID": "TD-104",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0b7321b72e58133397438"
   },
-  "name": "weightloss (hindi)",
+  "name": "Magnet Button(weightloss)",
   "description": "magnetic button",
   "price": 0,
   "image": [
@@ -934,13 +981,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739634482574,
   "productID": "TD-105",
-  "__v": 0
+  "__v": 0,
+  "language": "Hindi"
 },
 {
   "_id": {
     "$oid": "67b0b8c01b72e5813339743a"
   },
-  "name": "Be Fit Now",
+  "name": "Magnet Button (Be Fit Now)",
   "description": "magnetic button",
   "price": 0,
   "image": [
@@ -952,13 +1000,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739634880480,
   "productID": "TD-106",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0bc381b72e5813339743c"
   },
-  "name": "Fit mom",
+  "name": "Magnet Button (Fit mom)",
   "description": "magnetic buttons",
   "price": 0,
   "image": [
@@ -970,13 +1019,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739635768240,
   "productID": "TD-107",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0bcd41b72e5813339743e"
   },
-  "name": "Work from Home",
+  "name": "Magnet Button (Work from Home)",
   "description": "magnet button",
   "price": 0,
   "image": [
@@ -988,13 +1038,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739635924135,
   "productID": "TD-108",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0bcff1b72e58133397440"
   },
-  "name": "Personal Wellness Coach",
+  "name": "Magnet Button (Personal Wellness Coach)",
   "description": "Magnetic button",
   "price": 0,
   "image": [
@@ -1006,13 +1057,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739635967342,
   "productID": "TD-109",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0bf461b72e58133397445"
   },
-  "name": "Misson ideal weight",
+  "name": "Magnet Button (Misson ideal weight)",
   "description": "magnetic button",
   "price": 0,
   "image": [
@@ -1024,13 +1076,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739636550729,
   "productID": "TD-111",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
     "$oid": "67b0bf7e1b72e58133397447"
   },
-  "name": "work from home  (hindi)",
+  "name": "Magnet Button (work from home)",
   "description": "magnetic button",
   "price": 0,
   "image": [
@@ -1042,7 +1095,8 @@ export const productData = [{
   "bestseller": false,
   "date": 1739636606847,
   "productID": "TD-113",
-  "__v": 0
+  "__v": 0,
+  "language": "Hindi"
 },
 {
   "_id": {
@@ -1066,7 +1120,7 @@ export const productData = [{
   "_id": {
     "$oid": "67b0c0581b72e5813339744b"
   },
-  "name": "pin (green)",
+  "name": "Magnet Button (green)",
   "description": "magnetic button",
   "price": 0,
   "image": [
@@ -1078,13 +1132,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739636824907,
   "productID": "TD-117",
-  "__v": 0
+  "__v": 0,
+  "language": "Gujrati"
 },
 {
   "_id": {
     "$oid": "67b0c0961b72e5813339744d"
   },
-  "name": "weightloss green(hindi)",
+  "name": "Magnet Buttob weightloss green(hindi)",
   "description": "magnetic button",
   "price": 0,
   "image": [
@@ -1096,13 +1151,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739636886120,
   "productID": "TD-118",
-  "__v": 0
+  "__v": 0,
+  "language": "Hindi"
 },
 {
   "_id": {
     "$oid": "67b0c0c61b72e5813339744f"
   },
-  "name": "pin",
+  "name": "Magnet Button",
   "description": "pin",
   "price": 0,
   "image": [
@@ -1114,13 +1170,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739636934423,
   "productID": "TD-119",
-  "__v": 0
+  "__v": 0,
+  "language": "Gujrati"
 },
 {
   "_id": {
     "$oid": "67b0c0cf1b72e58133397451"
   },
-  "name": "pin",
+  "name": "Magnet Button",
   "description": "pin",
   "price": 0,
   "image": [
@@ -1138,7 +1195,7 @@ export const productData = [{
   "_id": {
     "$oid": "67b0c0d21b72e58133397453"
   },
-  "name": "pin",
+  "name": "Magnet Button",
   "description": "pin",
   "price": 0,
   "image": [
@@ -1156,7 +1213,7 @@ export const productData = [{
   "_id": {
     "$oid": "67b0c0d31b72e58133397455"
   },
-  "name": "pin",
+  "name": "Magnet Button",
   "description": "pin",
   "price": 0,
   "image": [
@@ -1174,7 +1231,7 @@ export const productData = [{
   "_id": {
     "$oid": "67b0c1031b72e58133397457"
   },
-  "name": "pin hindi",
+  "name": "Magnet Button hindi",
   "description": "pin",
   "price": 0,
   "image": [
@@ -1186,13 +1243,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739636995819,
   "productID": "TD-120",
-  "__v": 0
+  "__v": 0,
+  "language": "Hindi"
 },
 {
   "_id": {
     "$oid": "67b0c1331b72e58133397459"
   },
-  "name": "wellness coach ",
+  "name": "Magnet Button (wellness coach) ",
   "description": "coat pin",
   "price": 0,
   "image": [
@@ -3192,13 +3250,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739730353782,
   "productID": "TD-026",
-  "__v": 0
+  "__v": 0,
+  "language": "Punjabi"
 },
 {
   "_id": {
     "$oid": "67b22dd559a83e85123bb5c6"
   },
-  "name": "Weightloss pin (hindi)",
+  "name": "Pin Button (Weightloss pin)",
   "description": "pin",
   "price": 0,
   "image": [
@@ -3210,13 +3269,14 @@ export const productData = [{
   "bestseller": false,
   "date": 1739730389364,
   "productID": "TD-050",
-  "__v": 0
+  "__v": 0,
+  "language": "Hindi"
 },
 {
   "_id": {
     "$oid": "67b22dfc59a83e85123bb5c8"
   },
-  "name": "Wellness Coach ",
+  "name": "Pin Button (Wellness Coach)",
   "description": "Pin",
   "price": 0,
   "image": [
@@ -3228,7 +3288,8 @@ export const productData = [{
   "bestseller": true,
   "date": 1739730428214,
   "productID": "TD-010",
-  "__v": 0
+  "__v": 0,
+  "language": "English"
 },
 {
   "_id": {
@@ -3301,4 +3362,4 @@ export const productData = [{
   "date": 1739730812868,
   "productID": "TD-319",
   "__v": 0
-}];
+}]
